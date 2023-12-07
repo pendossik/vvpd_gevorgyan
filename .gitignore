@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+
+venv
+.idea/.gitignore
+.idea/VVPD_4.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
